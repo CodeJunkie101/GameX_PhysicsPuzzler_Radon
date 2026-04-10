@@ -1,24 +1,24 @@
-using Unity.Mathematics;
 using UnityEngine;
-using UnityEngine.Events;
 
 public class RealPlayerController : MonoBehaviour
 {
     public float moveSpeed = 8f;
+    public bool boolFlipX;
     public float runSpeed = 8f;
     public float jumpForce = 10f;
-    
+    public float move;
     private Vector2 initial, final;
     public static Vector2 moveLight;
-    Vector2 cursorpos;
     public GameObject lightball;
     public GameObject HeldMirror;
-    public float LightBallSpeed = 10f;
-    bool hasMirror;
+    public float LightBallSpeed = 100f;
     bool isGrounded;
     bool canMove;
-    bool isLight;
+    static bool isLight;
     private Rigidbody2D r;
+    public GameObject line;
+    private GameObject arrowline;
+    static Quaternion directionoflight;
 
 
     void Start()
@@ -33,25 +33,49 @@ public class RealPlayerController : MonoBehaviour
         LeftRightMovement();
         ability();
         jump();
+        if (r.linearVelocityY == 0)
+        {
+            isGrounded = true;
+        }
+        else
+        {
+            isGrounded = false;
+        }
     }
 
     void ability()
     {
+        
         if (Input.GetKeyDown(KeyCode.Mouse0) && !isLight)
-        {
-            initial= Camera.main.ScreenToWorldPoint(Input.mousePosition);
-            canMove = false;
+{
+    initial = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+    canMove = false;
+}
+
+if (Input.GetKey(KeyCode.Mouse0) && !isLight)
+{
+    Vector2 currentMousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+    Vector2 direction = (currentMousePos - initial).normalized;
+    float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
+    Quaternion rotation = Quaternion.AngleAxis(angle, Vector3.forward);
+    if (arrowline != null)
+        Destroy(arrowline);
+    Vector2 spawnPos = (Vector2)transform.position + direction * 0.5f;
+
+    arrowline = Instantiate(line, spawnPos, rotation);
+
         }
         if (Input.GetKeyUp(KeyCode.Mouse0))
         {
+
             final = Camera.main.ScreenToWorldPoint(Input.mousePosition);
             isLight = true;
             moveLight = initial - final;
             gameObject.GetComponent<SpriteRenderer>().enabled = false;
             gameObject.GetComponent<BoxCollider2D>().enabled = false;
-            GameObject movinglight = Instantiate(lightball, transform.position, quaternion.identity);
-            Debug.Log(moveLight.normalized + " || " + moveLight);
+            GameObject movinglight = Instantiate(lightball, transform.position, directionoflight);
             movinglight.GetComponent<Rigidbody2D>().linearVelocity = moveLight.normalized * LightBallSpeed;
+            Destroy(arrowline);
             Destroy(gameObject);
         }
     }
@@ -59,7 +83,10 @@ public class RealPlayerController : MonoBehaviour
     {
         if (canMove)
         {
-            float move = Input.GetAxisRaw("Horizontal");
+             move = Input.GetAxisRaw("Horizontal");
+             if (move == 1f) boolFlipX = false;
+            if (move == -1f) boolFlipX = true;
+            gameObject.GetComponent<SpriteRenderer>().flipX = boolFlipX;
             if(Input.GetKey(KeyCode.LeftShift) && isGrounded) r.linearVelocity = new Vector2(move * runSpeed, r.linearVelocityY);
             else r.linearVelocity = new Vector2(move * moveSpeed, r.linearVelocity.y);
         }
@@ -69,6 +96,7 @@ public class RealPlayerController : MonoBehaviour
         if(Input.GetKey(KeyCode.Space) && isGrounded && canMove) 
         {
             r.linearVelocity = new Vector2(r.linearVelocity.x, jumpForce);
+            Debug.Log("jumped now");
         }
     }
     void OnCollisionEnter2D(Collision2D collision)
@@ -76,8 +104,11 @@ public class RealPlayerController : MonoBehaviour
         if(collision.gameObject.CompareTag("Ground")) isGrounded = true;
         if(collision.gameObject.CompareTag("Spike"))
         {
-            Debug.Log("Player hit spikes , dead");
+            
+            Instantiate(gameObject , LevelController.spawn , Quaternion.identity);
+            Destroy(gameObject);
         }
+        
     }
     void OnCollisionExit2D(Collision2D collision)
     {
@@ -94,13 +125,11 @@ public class RealPlayerController : MonoBehaviour
             GameObject temp = Instantiate(HeldMirror, gameObject.transform.position, Quaternion.identity);
             temp.transform.parent = gameObject.transform;
             temp.transform.position = gameObject.transform.position + new Vector3(0f, 1.25f, 0f);
-            hasMirror = true;
             Debug.Log("i have mirror");
 
         }
         if(collision.gameObject.CompareTag("MirrorHolder"))
         {
-            
-    }
+        }
 }
 }

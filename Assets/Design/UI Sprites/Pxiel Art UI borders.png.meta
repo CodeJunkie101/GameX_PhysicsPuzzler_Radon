@@ -160,10 +160,10 @@ TextureImporter:
       name: Pxiel Art UI borders_0
       rect:
         serializedVersion: 2
-        x: 15
-        y: 372
-        width: 15
-        height: 14
+        x: 0
+        y: 356
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -182,10 +182,10 @@ TextureImporter:
       name: Pxiel Art UI borders_1
       rect:
         serializedVersion: 2
-        x: 30
-        y: 372
-        width: 15
-        height: 14
+        x: 46
+        y: 356
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -204,10 +204,10 @@ TextureImporter:
       name: Pxiel Art UI borders_2
       rect:
         serializedVersion: 2
-        x: 45
-        y: 372
-        width: 15
-        height: 14
+        x: 92
+        y: 356
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -226,10 +226,10 @@ TextureImporter:
       name: Pxiel Art UI borders_3
       rect:
         serializedVersion: 2
-        x: 60
-        y: 372
-        width: 15
-        height: 14
+        x: 138
+        y: 356
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -248,10 +248,10 @@ TextureImporter:
       name: Pxiel Art UI borders_4
       rect:
         serializedVersion: 2
-        x: 75
-        y: 372
-        width: 15
-        height: 14
+        x: 184
+        y: 356
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -270,10 +270,10 @@ TextureImporter:
       name: Pxiel Art UI borders_5
       rect:
         serializedVersion: 2
-        x: 90
-        y: 372
-        width: 15
-        height: 14
+        x: 230
+        y: 356
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -292,10 +292,10 @@ TextureImporter:
       name: Pxiel Art UI borders_6
       rect:
         serializedVersion: 2
-        x: 105
-        y: 372
-        width: 15
-        height: 14
+        x: 276
+        y: 356
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -314,10 +314,10 @@ TextureImporter:
       name: Pxiel Art UI borders_7
       rect:
         serializedVersion: 2
-        x: 150
-        y: 372
-        width: 15
-        height: 14
+        x: 322
+        y: 356
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -336,10 +336,10 @@ TextureImporter:
       name: Pxiel Art UI borders_8
       rect:
         serializedVersion: 2
-        x: 165
-        y: 372
-        width: 15
-        height: 14
+        x: 368
+        y: 356
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -358,10 +358,10 @@ TextureImporter:
       name: Pxiel Art UI borders_9
       rect:
         serializedVersion: 2
-        x: 180
-        y: 372
-        width: 15
-        height: 14
+        x: 0
+        y: 312
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -380,10 +380,10 @@ TextureImporter:
       name: Pxiel Art UI borders_10
       rect:
         serializedVersion: 2
-        x: 195
-        y: 372
-        width: 15
-        height: 14
+        x: 92
+        y: 312
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -402,10 +402,10 @@ TextureImporter:
       name: Pxiel Art UI borders_11
       rect:
         serializedVersion: 2
-        x: 210
-        y: 372
-        width: 15
-        height: 14
+        x: 138
+        y: 312
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -424,10 +424,10 @@ TextureImporter:
       name: Pxiel Art UI borders_12
       rect:
         serializedVersion: 2
-        x: 225
-        y: 372
-        width: 15
-        height: 14
+        x: 230
+        y: 312
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -446,10 +446,10 @@ TextureImporter:
       name: Pxiel Art UI borders_13
       rect:
         serializedVersion: 2
-        x: 240
-        y: 372
-        width: 15
-        height: 14
+        x: 276
+        y: 312
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -468,10 +468,10 @@ TextureImporter:
       name: Pxiel Art UI borders_15
       rect:
         serializedVersion: 2
-        x: 300
-        y: 372
-        width: 15
-        height: 14
+        x: 0
+        y: 268
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -490,10 +490,10 @@ TextureImporter:
       name: Pxiel Art UI borders_16
       rect:
         serializedVersion: 2
-        x: 315
-        y: 372
-        width: 15
-        height: 14
+        x: 46
+        y: 268
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -512,10 +512,10 @@ TextureImporter:
       name: Pxiel Art UI borders_17
       rect:
         serializedVersion: 2
-        x: 330
-        y: 372
-        width: 15
-        height: 14
+        x: 92
+        y: 268
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -534,10 +534,10 @@ TextureImporter:
       name: Pxiel Art UI borders_18
       rect:
         serializedVersion: 2
-        x: 345
-        y: 372
-        width: 15
-        height: 14
+        x: 138
+        y: 268
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -556,10 +556,10 @@ TextureImporter:
       name: Pxiel Art UI borders_19
       rect:
         serializedVersion: 2
-        x: 360
-        y: 372
-        width: 15
-        height: 14
+        x: 184
+        y: 268
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -578,10 +578,10 @@ TextureImporter:
       name: Pxiel Art UI borders_20
       rect:
         serializedVersion: 2
-        x: 375
-        y: 372
-        width: 15
-        height: 14
+        x: 230
+        y: 268
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -600,10 +600,10 @@ TextureImporter:
       name: Pxiel Art UI borders_21
       rect:
         serializedVersion: 2
-        x: 390
-        y: 372
-        width: 15
-        height: 14
+        x: 276
+        y: 268
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -622,10 +622,10 @@ TextureImporter:
       name: Pxiel Art UI borders_22
       rect:
         serializedVersion: 2
-        x: 15
-        y: 358
-        width: 15
-        height: 14
+        x: 322
+        y: 268
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -644,10 +644,10 @@ TextureImporter:
       name: Pxiel Art UI borders_23
       rect:
         serializedVersion: 2
-        x: 30
-        y: 358
-        width: 15
-        height: 14
+        x: 368
+        y: 268
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -666,10 +666,10 @@ TextureImporter:
       name: Pxiel Art UI borders_25
       rect:
         serializedVersion: 2
-        x: 105
-        y: 358
-        width: 15
-        height: 14
+        x: 46
+        y: 224
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -688,10 +688,10 @@ TextureImporter:
       name: Pxiel Art UI borders_26
       rect:
         serializedVersion: 2
-        x: 150
-        y: 358
-        width: 15
-        height: 14
+        x: 92
+        y: 224
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -710,10 +710,10 @@ TextureImporter:
       name: Pxiel Art UI borders_28
       rect:
         serializedVersion: 2
-        x: 240
-        y: 358
-        width: 15
-        height: 14
+        x: 184
+        y: 224
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -732,10 +732,10 @@ TextureImporter:
       name: Pxiel Art UI borders_29
       rect:
         serializedVersion: 2
-        x: 300
-        y: 358
-        width: 15
-        height: 14
+        x: 230
+        y: 224
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -754,10 +754,10 @@ TextureImporter:
       name: Pxiel Art UI borders_30
       rect:
         serializedVersion: 2
-        x: 390
-        y: 358
-        width: 15
-        height: 14
+        x: 276
+        y: 224
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -776,10 +776,10 @@ TextureImporter:
       name: Pxiel Art UI borders_31
       rect:
         serializedVersion: 2
-        x: 15
-        y: 344
-        width: 15
-        height: 14
+        x: 322
+        y: 224
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -798,10 +798,10 @@ TextureImporter:
       name: Pxiel Art UI borders_32
       rect:
         serializedVersion: 2
-        x: 105
-        y: 344
-        width: 15
-        height: 14
+        x: 368
+        y: 224
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -820,10 +820,10 @@ TextureImporter:
       name: Pxiel Art UI borders_33
       rect:
         serializedVersion: 2
-        x: 150
-        y: 344
-        width: 15
-        height: 14
+        x: 0
+        y: 180
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -842,10 +842,10 @@ TextureImporter:
       name: Pxiel Art UI borders_34
       rect:
         serializedVersion: 2
-        x: 240
-        y: 344
-        width: 15
-        height: 14
+        x: 92
+        y: 180
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -864,10 +864,10 @@ TextureImporter:
       name: Pxiel Art UI borders_35
       rect:
         serializedVersion: 2
-        x: 300
-        y: 344
-        width: 15
-        height: 14
+        x: 138
+        y: 180
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -886,10 +886,10 @@ TextureImporter:
       name: Pxiel Art UI borders_36
       rect:
         serializedVersion: 2
-        x: 390
-        y: 344
-        width: 15
-        height: 14
+        x: 230
+        y: 180
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -908,10 +908,10 @@ TextureImporter:
       name: Pxiel Art UI borders_37
       rect:
         serializedVersion: 2
-        x: 15
-        y: 330
-        width: 15
-        height: 14
+        x: 276
+        y: 180
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -930,10 +930,10 @@ TextureImporter:
       name: Pxiel Art UI borders_38
       rect:
         serializedVersion: 2
-        x: 105
-        y: 330
-        width: 15
-        height: 14
+        x: 368
+        y: 180
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -952,10 +952,10 @@ TextureImporter:
       name: Pxiel Art UI borders_39
       rect:
         serializedVersion: 2
-        x: 150
-        y: 330
-        width: 15
-        height: 14
+        x: 0
+        y: 136
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -974,10 +974,10 @@ TextureImporter:
       name: Pxiel Art UI borders_40
       rect:
         serializedVersion: 2
-        x: 240
-        y: 330
-        width: 15
-        height: 14
+        x: 46
+        y: 136
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -996,10 +996,10 @@ TextureImporter:
       name: Pxiel Art UI borders_41
       rect:
         serializedVersion: 2
-        x: 300
-        y: 330
-        width: 15
-        height: 14
+        x: 92
+        y: 136
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1018,10 +1018,10 @@ TextureImporter:
       name: Pxiel Art UI borders_42
       rect:
         serializedVersion: 2
-        x: 390
-        y: 330
-        width: 15
-        height: 14
+        x: 138
+        y: 136
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1040,10 +1040,10 @@ TextureImporter:
       name: Pxiel Art UI borders_43
       rect:
         serializedVersion: 2
-        x: 15
-        y: 316
-        width: 15
-        height: 14
+        x: 184
+        y: 136
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1062,10 +1062,10 @@ TextureImporter:
       name: Pxiel Art UI borders_44
       rect:
         serializedVersion: 2
-        x: 105
-        y: 316
-        width: 15
-        height: 14
+        x: 230
+        y: 136
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1084,10 +1084,10 @@ TextureImporter:
       name: Pxiel Art UI borders_45
       rect:
         serializedVersion: 2
-        x: 150
-        y: 316
-        width: 15
-        height: 14
+        x: 276
+        y: 136
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1106,10 +1106,10 @@ TextureImporter:
       name: Pxiel Art UI borders_46
       rect:
         serializedVersion: 2
-        x: 240
-        y: 316
-        width: 15
-        height: 14
+        x: 322
+        y: 136
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1128,10 +1128,10 @@ TextureImporter:
       name: Pxiel Art UI borders_47
       rect:
         serializedVersion: 2
-        x: 300
-        y: 316
-        width: 15
-        height: 14
+        x: 368
+        y: 136
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1150,10 +1150,10 @@ TextureImporter:
       name: Pxiel Art UI borders_48
       rect:
         serializedVersion: 2
-        x: 390
-        y: 316
-        width: 15
-        height: 14
+        x: 0
+        y: 92
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1172,10 +1172,10 @@ TextureImporter:
       name: Pxiel Art UI borders_49
       rect:
         serializedVersion: 2
-        x: 15
-        y: 302
-        width: 15
-        height: 14
+        x: 46
+        y: 92
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1194,10 +1194,10 @@ TextureImporter:
       name: Pxiel Art UI borders_52
       rect:
         serializedVersion: 2
-        x: 105
-        y: 302
-        width: 15
-        height: 14
+        x: 184
+        y: 92
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1216,10 +1216,10 @@ TextureImporter:
       name: Pxiel Art UI borders_53
       rect:
         serializedVersion: 2
-        x: 150
-        y: 302
-        width: 15
-        height: 14
+        x: 230
+        y: 92
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1238,10 +1238,10 @@ TextureImporter:
       name: Pxiel Art UI borders_55
       rect:
         serializedVersion: 2
-        x: 240
-        y: 302
-        width: 15
-        height: 14
+        x: 322
+        y: 92
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1260,10 +1260,10 @@ TextureImporter:
       name: Pxiel Art UI borders_56
       rect:
         serializedVersion: 2
-        x: 300
-        y: 302
-        width: 15
-        height: 14
+        x: 368
+        y: 92
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1282,10 +1282,10 @@ TextureImporter:
       name: Pxiel Art UI borders_57
       rect:
         serializedVersion: 2
-        x: 390
-        y: 302
-        width: 15
-        height: 14
+        x: 0
+        y: 48
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1304,10 +1304,10 @@ TextureImporter:
       name: Pxiel Art UI borders_58
       rect:
         serializedVersion: 2
-        x: 15
-        y: 288
-        width: 15
-        height: 14
+        x: 92
+        y: 48
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1326,10 +1326,10 @@ TextureImporter:
       name: Pxiel Art UI borders_59
       rect:
         serializedVersion: 2
-        x: 30
-        y: 288
-        width: 15
-        height: 14
+        x: 138
+        y: 48
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1348,10 +1348,10 @@ TextureImporter:
       name: Pxiel Art UI borders_60
       rect:
         serializedVersion: 2
-        x: 45
-        y: 288
-        width: 15
-        height: 14
+        x: 230
+        y: 48
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1370,10 +1370,10 @@ TextureImporter:
       name: Pxiel Art UI borders_61
       rect:
         serializedVersion: 2
-        x: 60
-        y: 288
-        width: 15
-        height: 14
+        x: 276
+        y: 48
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1392,10 +1392,10 @@ TextureImporter:
       name: Pxiel Art UI borders_62
       rect:
         serializedVersion: 2
-        x: 75
-        y: 288
-        width: 15
-        height: 14
+        x: 368
+        y: 48
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1414,10 +1414,10 @@ TextureImporter:
       name: Pxiel Art UI borders_63
       rect:
         serializedVersion: 2
-        x: 90
-        y: 288
-        width: 15
-        height: 14
+        x: 0
+        y: 4
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1436,10 +1436,10 @@ TextureImporter:
       name: Pxiel Art UI borders_64
       rect:
         serializedVersion: 2
-        x: 105
-        y: 288
-        width: 15
-        height: 14
+        x: 46
+        y: 4
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1458,10 +1458,10 @@ TextureImporter:
       name: Pxiel Art UI borders_65
       rect:
         serializedVersion: 2
-        x: 150
-        y: 288
-        width: 15
-        height: 14
+        x: 92
+        y: 4
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1480,10 +1480,10 @@ TextureImporter:
       name: Pxiel Art UI borders_66
       rect:
         serializedVersion: 2
-        x: 165
-        y: 288
-        width: 15
-        height: 14
+        x: 138
+        y: 4
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1502,10 +1502,10 @@ TextureImporter:
       name: Pxiel Art UI borders_67
       rect:
         serializedVersion: 2
-        x: 180
-        y: 288
-        width: 15
-        height: 14
+        x: 184
+        y: 4
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1524,10 +1524,10 @@ TextureImporter:
       name: Pxiel Art UI borders_68
       rect:
         serializedVersion: 2
-        x: 195
-        y: 288
-        width: 15
-        height: 14
+        x: 230
+        y: 4
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1546,10 +1546,10 @@ TextureImporter:
       name: Pxiel Art UI borders_69
       rect:
         serializedVersion: 2
-        x: 210
-        y: 288
-        width: 15
-        height: 14
+        x: 276
+        y: 4
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1568,10 +1568,10 @@ TextureImporter:
       name: Pxiel Art UI borders_70
       rect:
         serializedVersion: 2
-        x: 225
-        y: 288
-        width: 15
-        height: 14
+        x: 322
+        y: 4
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1590,10 +1590,10 @@ TextureImporter:
       name: Pxiel Art UI borders_71
       rect:
         serializedVersion: 2
-        x: 240
-        y: 288
-        width: 15
-        height: 14
+        x: 368
+        y: 4
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1609,13 +1609,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pxiel Art UI borders_73
+      name: Pxiel Art UI borders_14
       rect:
         serializedVersion: 2
-        x: 300
-        y: 288
-        width: 15
-        height: 14
+        x: 368
+        y: 312
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1624,20 +1624,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: deaf206299dacff499651d9ae87d78e7
-      internalID: 462601403
+      spriteID: 1b051d6cee283cb4db5a1f6608f50c03
+      internalID: 6841656926578867022
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pxiel Art UI borders_74
+      name: Pxiel Art UI borders_24
       rect:
         serializedVersion: 2
-        x: 315
-        y: 288
-        width: 15
-        height: 14
+        x: 0
+        y: 224
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1646,20 +1646,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 92e8ad88889822248b567b7f9a2a53cc
-      internalID: 1928429412
+      spriteID: ab6ed0e40a752e1458846b3a64a70f9a
+      internalID: 136899436
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pxiel Art UI borders_75
+      name: Pxiel Art UI borders_27
       rect:
         serializedVersion: 2
-        x: 330
-        y: 288
-        width: 15
-        height: 14
+        x: 138
+        y: 224
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1668,2462 +1668,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3f482ea8a44522f4bb3e4f81e4a1f929
-      internalID: -484249964
+      spriteID: 3ef65e1a0b44f0847bf61d4fa205aedb
+      internalID: 1866460153
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pxiel Art UI borders_76
+      name: Pxiel Art UI borders_50
       rect:
         serializedVersion: 2
-        x: 345
-        y: 288
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 148d6af8de9026e4ebe9e4cfd494be5a
-      internalID: 492590027
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_77
-      rect:
-        serializedVersion: 2
-        x: 360
-        y: 288
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 49eef40bd1237964b83fa92abc8b2100
-      internalID: -2033359683
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_78
-      rect:
-        serializedVersion: 2
-        x: 375
-        y: 288
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cafc2d35603627343aebb5e5ce549404
-      internalID: -1415124495
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_79
-      rect:
-        serializedVersion: 2
-        x: 390
-        y: 288
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5ef9795b52658c0418828064f1cf5c59
-      internalID: -150654290
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_80
-      rect:
-        serializedVersion: 2
-        x: 165
-        y: 274
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1c8cb175981d1f74289b131fae7891bc
-      internalID: -1991515884
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_82
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 246
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 594534ad63ec99948b860aaaefacbeb2
-      internalID: 1171166617
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_83
-      rect:
-        serializedVersion: 2
-        x: 30
-        y: 246
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fd0a2899d76d0ab4484643e47cc997a5
-      internalID: 1173299181
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_84
-      rect:
-        serializedVersion: 2
-        x: 45
-        y: 246
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c078e28f419357347a55c5778bc17a1e
-      internalID: -1836942021
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_85
-      rect:
-        serializedVersion: 2
-        x: 60
-        y: 246
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0f8f67d144e4dd444aa95d23a571d99e
-      internalID: -1530488550
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_86
-      rect:
-        serializedVersion: 2
-        x: 75
-        y: 246
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 29f43726b2fa13f4992caa7bf608f440
-      internalID: 976361003
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_87
-      rect:
-        serializedVersion: 2
-        x: 90
-        y: 246
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bd0d9ec24c5547446935a60e3ab813b1
-      internalID: -1391917098
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_88
-      rect:
-        serializedVersion: 2
-        x: 105
-        y: 246
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8c77628c3de2444469bfa6d1cac888cb
-      internalID: -735202887
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_89
-      rect:
-        serializedVersion: 2
-        x: 165
-        y: 246
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 956412ee791ae42449cdcc855e4dd859
-      internalID: -595346429
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_90
-      rect:
-        serializedVersion: 2
-        x: 180
-        y: 246
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9891f1e5f074b074088122968f9f7d30
-      internalID: 2027490034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_91
-      rect:
-        serializedVersion: 2
-        x: 195
-        y: 246
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a5c65757fdbfb074ca9f1c8fbdbe3f06
-      internalID: -1277015974
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_92
-      rect:
-        serializedVersion: 2
-        x: 210
-        y: 246
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b4158ed4dcf4008419c986a229bb88a2
-      internalID: 223163293
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_93
-      rect:
-        serializedVersion: 2
-        x: 225
-        y: 246
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0a977657a6de06a40a386ca95e8c88f2
-      internalID: 1392872479
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_94
-      rect:
-        serializedVersion: 2
-        x: 240
-        y: 246
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5488febaaee6e3a4b85fa516c9a0f276
-      internalID: -491742456
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_95
-      rect:
-        serializedVersion: 2
-        x: 300
-        y: 246
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c38c94da3b5f9394b8cfd79a74635813
-      internalID: -778254561
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_96
-      rect:
-        serializedVersion: 2
-        x: 315
-        y: 246
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dbba3fb48da537f43afcff2c1406108f
-      internalID: -1069897897
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_97
-      rect:
-        serializedVersion: 2
-        x: 330
-        y: 246
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 45b306485504d6a4e866a25d6057d467
-      internalID: 87367985
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_98
-      rect:
-        serializedVersion: 2
-        x: 345
-        y: 246
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 58c1bb175f557cb43a38065de67cb0aa
-      internalID: -1713409739
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_99
-      rect:
-        serializedVersion: 2
-        x: 360
-        y: 246
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c6026dbd24e741e47ba7167729da7314
-      internalID: -2121941425
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_100
-      rect:
-        serializedVersion: 2
-        x: 375
-        y: 246
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 427359b1f8be06843bf83b135dd2f973
-      internalID: 710262377
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_101
-      rect:
-        serializedVersion: 2
-        x: 390
-        y: 246
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 26d3104c0ce4af544af412bf987a5558
-      internalID: 90247895
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_102
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 232
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5239f2a1567e69f4998755f2cba6c872
-      internalID: 382626805
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_103
-      rect:
-        serializedVersion: 2
-        x: 105
-        y: 232
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6cfe18d8a5ebbc94b81050a771774613
-      internalID: -1018599660
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_104
-      rect:
-        serializedVersion: 2
-        x: 150
-        y: 232
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 15a9dcbd555311d41a4ca04f625fce2a
-      internalID: -1436785325
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_105
-      rect:
-        serializedVersion: 2
-        x: 165
-        y: 232
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0c2305df8e0949b498702644fb0ae2c4
-      internalID: -1540177230
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_106
-      rect:
-        serializedVersion: 2
-        x: 180
-        y: 232
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ffdf699e8ddaa304391a4f43d312ce3a
-      internalID: 1483118513
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_107
-      rect:
-        serializedVersion: 2
-        x: 225
-        y: 232
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6f848dafde1964d4a850a70e434568b2
-      internalID: 1654034413
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_108
-      rect:
-        serializedVersion: 2
-        x: 240
-        y: 232
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 37f2988ec0f351d43b4d0ad703e3eecd
-      internalID: -1587578996
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_109
-      rect:
-        serializedVersion: 2
-        x: 300
-        y: 232
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8a421f86140b7e64fa3b2e014a285404
-      internalID: -1164507402
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_110
-      rect:
-        serializedVersion: 2
-        x: 390
-        y: 232
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 451c1d6e26c0cff479da9e9b5180d1ae
-      internalID: -250650704
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_111
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 218
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bd0e2087bb83aee468da2d1f0016c7f5
-      internalID: -75559126
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_112
-      rect:
-        serializedVersion: 2
-        x: 105
-        y: 218
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 010b5a419202a5f4c8b7aea92afaf713
-      internalID: -851415881
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_113
-      rect:
-        serializedVersion: 2
-        x: 165
-        y: 218
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b5ab55a1f4e5cbc4b978a63dd44eee21
-      internalID: 1189956034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_114
-      rect:
-        serializedVersion: 2
-        x: 240
-        y: 218
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 695788b264f979940ba523e782480268
-      internalID: -808961664
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_115
-      rect:
-        serializedVersion: 2
-        x: 300
-        y: 218
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dcc12a3e4df7812408ad4fe46c47e7b7
-      internalID: 1418502147
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_116
-      rect:
-        serializedVersion: 2
-        x: 390
-        y: 218
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 72067205d6814da478419153f16bb8f5
-      internalID: 1290137946
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_117
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 204
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8f5c349c7d9c19b44ab961f608378cc3
-      internalID: 1766314747
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_118
-      rect:
-        serializedVersion: 2
-        x: 105
-        y: 204
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f7f13f809d3902c45b0fd724d1d836c4
-      internalID: -992778698
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_119
-      rect:
-        serializedVersion: 2
-        x: 165
-        y: 204
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c038d60cce8bb8e4384d3610dbfb3843
-      internalID: 1145133738
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_120
-      rect:
-        serializedVersion: 2
-        x: 240
-        y: 204
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: df5e129d7672feb4c9d457ff9294a3d7
-      internalID: 1856370267
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_121
-      rect:
-        serializedVersion: 2
-        x: 300
-        y: 204
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7c49d6852888367468785c04ffc7fcba
-      internalID: -1137788904
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_122
-      rect:
-        serializedVersion: 2
-        x: 390
-        y: 204
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e5b29f08f80412b40a2abe4ac6d48e50
-      internalID: 1986417533
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_123
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 190
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d3568d681a65663458547081cce5e725
-      internalID: 659339509
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_124
-      rect:
-        serializedVersion: 2
-        x: 105
-        y: 190
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 45e62d3b0946fe54dbb62e8e4656b3fc
-      internalID: -1919792191
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_125
-      rect:
-        serializedVersion: 2
-        x: 165
-        y: 190
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 64d31cb02abcb6541b8e46cf80404039
-      internalID: 2015494305
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_126
-      rect:
-        serializedVersion: 2
-        x: 240
-        y: 190
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: aeb0a8e12c7c88246a5998b914146334
-      internalID: 703799823
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_127
-      rect:
-        serializedVersion: 2
-        x: 300
-        y: 190
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3c353428621e92042b92a6f220a11232
-      internalID: -539403279
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_128
-      rect:
-        serializedVersion: 2
-        x: 390
-        y: 190
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2da0bc013a6856c4a88e65b8cd9bd8c7
-      internalID: 1531180847
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_129
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 176
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 15c520f6c672b2e4ebe9cfa3f087cf26
-      internalID: 1165872552
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_130
-      rect:
-        serializedVersion: 2
-        x: 105
-        y: 176
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 87a9b5334a45d1142bca0f6b265b6d97
-      internalID: -206463420
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_131
-      rect:
-        serializedVersion: 2
-        x: 150
-        y: 176
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8a0c3e87da5964f42acefd460d4a8d8d
-      internalID: 471762103
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_132
-      rect:
-        serializedVersion: 2
-        x: 165
-        y: 176
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 783d5484f8dfe3a4fa16da2da25c5e06
-      internalID: 1250941125
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_133
-      rect:
-        serializedVersion: 2
-        x: 240
-        y: 176
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: db1310b4d47ef484d809e2ec0eb5ed6e
-      internalID: 1496347989
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_134
-      rect:
-        serializedVersion: 2
-        x: 300
-        y: 176
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4b32f31bb69e3b64f96d9f5cd59df3d6
-      internalID: 1893989169
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_135
-      rect:
-        serializedVersion: 2
-        x: 390
-        y: 176
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fedb8310767145c49b13b515e238eef5
-      internalID: -749135289
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_136
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 162
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b8035a6218a7a0a46945dd6a2e3a9d0e
-      internalID: -1749467070
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_137
-      rect:
-        serializedVersion: 2
-        x: 30
-        y: 162
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6fb31df7f0564d24b8eef760d0b8c684
-      internalID: -1053628621
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_138
-      rect:
-        serializedVersion: 2
-        x: 45
-        y: 162
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 91ef83f7580818844ba13c36c73bd64b
-      internalID: -24598504
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_139
-      rect:
-        serializedVersion: 2
-        x: 60
-        y: 162
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1b1cdfa0dd245304b9df2bfd4e520492
-      internalID: 1798739995
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_140
-      rect:
-        serializedVersion: 2
-        x: 75
-        y: 162
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4e2ae2ab568ce73479d7236700e95f89
-      internalID: 1953251362
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_141
-      rect:
-        serializedVersion: 2
-        x: 90
-        y: 162
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5039ccaeb76b7cd489ad7697a845e6e5
-      internalID: 137232488
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_142
-      rect:
-        serializedVersion: 2
-        x: 105
-        y: 162
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d412d481db811494199ef8094d72faf2
-      internalID: -1088013563
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_143
-      rect:
-        serializedVersion: 2
-        x: 165
-        y: 162
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e852f1ea3f5202a40b49c79a9a118353
-      internalID: -1962429100
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_144
-      rect:
-        serializedVersion: 2
-        x: 180
-        y: 162
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dc190cb403a181a47a543c4513634f4c
-      internalID: 1558508427
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_145
-      rect:
-        serializedVersion: 2
-        x: 195
-        y: 162
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 63b271bc6cefe5543bb58f215bbd33fa
-      internalID: 1294539162
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_146
-      rect:
-        serializedVersion: 2
-        x: 210
-        y: 162
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1fd4df97ef883ee41b9ddf3e6ee2f520
-      internalID: 925556664
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_147
-      rect:
-        serializedVersion: 2
-        x: 225
-        y: 162
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 26b506142f51e694c8827e7ed01e68f9
-      internalID: -1099152999
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_148
-      rect:
-        serializedVersion: 2
-        x: 240
-        y: 162
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: edff090bcbe564f488dda53e76c6b73e
-      internalID: 732619413
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_149
-      rect:
-        serializedVersion: 2
-        x: 300
-        y: 162
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 453960fbd965fa24181c794aacaabb76
-      internalID: -1174340866
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_150
-      rect:
-        serializedVersion: 2
-        x: 315
-        y: 162
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 725489e69848a1c47978e5e64e4bd13a
-      internalID: -1561444003
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_151
-      rect:
-        serializedVersion: 2
-        x: 330
-        y: 162
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 68d66e88a5d29824cb71daa8b3c9ba3c
-      internalID: 149241827
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_152
-      rect:
-        serializedVersion: 2
-        x: 345
-        y: 162
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c6d4e17ccdbafe44686af8ecad801c8f
-      internalID: 242194100
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_153
-      rect:
-        serializedVersion: 2
-        x: 360
-        y: 162
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5bfeb7788bd8dc34b8c7bd1fa350cad9
-      internalID: -440824996
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_154
-      rect:
-        serializedVersion: 2
-        x: 375
-        y: 162
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ff47f11c4cd4d184b8259b8fdd33721c
-      internalID: 1218678173
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_155
-      rect:
-        serializedVersion: 2
-        x: 390
-        y: 162
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 56c01a3eebcbac44b90d0fdcd603cad9
-      internalID: -967096699
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_156
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 120
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d78ece10e4fa2dd4192e5b318d6e9558
-      internalID: 1978594474
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_157
-      rect:
-        serializedVersion: 2
-        x: 30
-        y: 120
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 07ff29d6744879043b8a83484d5b9a73
-      internalID: -643143284
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_158
-      rect:
-        serializedVersion: 2
-        x: 45
-        y: 120
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0842ef5e198b8d04287c80a53afb6736
-      internalID: 1771466608
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_159
-      rect:
-        serializedVersion: 2
-        x: 60
-        y: 120
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e8b1cef12ecf10d469d9210196c6531f
-      internalID: -1692989117
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_160
-      rect:
-        serializedVersion: 2
-        x: 75
-        y: 120
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f2f1ad862864b2046b4f4c5552525ad4
-      internalID: -563398726
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_161
-      rect:
-        serializedVersion: 2
-        x: 90
-        y: 120
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0d77aca2715245548b1b51a8ca8692b6
-      internalID: -1347682133
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_162
-      rect:
-        serializedVersion: 2
-        x: 105
-        y: 120
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9d9e82ac030dc934ab2cfcefaa2cc758
-      internalID: 862429861
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_163
-      rect:
-        serializedVersion: 2
-        x: 150
-        y: 120
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2f9aa191922e2024dab83499372c9953
-      internalID: 1357535057
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_164
-      rect:
-        serializedVersion: 2
-        x: 165
-        y: 120
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: efd4da7adabf4d547a91d1b78f3e9222
-      internalID: 1969288240
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_165
-      rect:
-        serializedVersion: 2
-        x: 180
-        y: 120
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c3d4c62b9edaca7449ce5e63b03b03e2
-      internalID: -2113270342
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_166
-      rect:
-        serializedVersion: 2
-        x: 195
-        y: 120
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 77b6fbefc3fcbbc499ae04b83f6c4550
-      internalID: -28036391
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_167
-      rect:
-        serializedVersion: 2
-        x: 210
-        y: 120
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e2ea16e714b352148948c99a433369a9
-      internalID: 636900131
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_168
-      rect:
-        serializedVersion: 2
-        x: 225
-        y: 120
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1c94f77bb77b6e440b2599ac469887b3
-      internalID: 965712082
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_169
-      rect:
-        serializedVersion: 2
-        x: 240
-        y: 120
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a9089cfa8766a6d4591fef76097e69c8
-      internalID: -1966031653
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_170
-      rect:
-        serializedVersion: 2
-        x: 300
-        y: 120
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2de70dc427a5378419d9d19c1d841152
-      internalID: 1167919108
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_171
-      rect:
-        serializedVersion: 2
-        x: 315
-        y: 120
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 95cc839b247a7ba4b83c6624373d55fa
-      internalID: 420914211
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_172
-      rect:
-        serializedVersion: 2
-        x: 330
-        y: 120
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9ff31be320c0beb478d6b43e046af33d
-      internalID: 122045580
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_173
-      rect:
-        serializedVersion: 2
-        x: 345
-        y: 120
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 31880c952b4eda9478d1fc7de295585d
-      internalID: 970385760
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_174
-      rect:
-        serializedVersion: 2
-        x: 360
-        y: 120
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bd549f46cce176c4aa2be2f2e9618871
-      internalID: 1825524327
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_175
-      rect:
-        serializedVersion: 2
-        x: 375
-        y: 120
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f2ecaf818b3face47b877981237b8f9e
-      internalID: 1504873914
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_176
-      rect:
-        serializedVersion: 2
-        x: 390
-        y: 120
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: eb599cc4a9fb5ec4d8e458eaca135ed0
-      internalID: -1690114399
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_177
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 106
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2e341ac892ec152439d5831916e4d21b
-      internalID: 862138293
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_178
-      rect:
-        serializedVersion: 2
-        x: 90
-        y: 106
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bfdc690769fab824eb09df61802ee3a9
-      internalID: 1250202151
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_179
-      rect:
-        serializedVersion: 2
-        x: 105
-        y: 106
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0bd03188c8356624ab1265f7ed6c5d0a
-      internalID: -906567008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_180
-      rect:
-        serializedVersion: 2
-        x: 150
-        y: 106
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7102a6dbba7ac8d4b908be12ebb51ce9
-      internalID: -1507446815
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_181
-      rect:
-        serializedVersion: 2
-        x: 165
-        y: 106
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f0458de3686a0b84b88e4e80a766d412
-      internalID: -919179272
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_182
-      rect:
-        serializedVersion: 2
-        x: 195
-        y: 106
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 472ce97794133254bb74863740afda9e
-      internalID: -1326796722
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_183
-      rect:
-        serializedVersion: 2
-        x: 210
-        y: 106
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8bfe36b7c46e71a419e6538a59686315
-      internalID: 1029826692
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_184
-      rect:
-        serializedVersion: 2
-        x: 225
-        y: 106
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9188d8b48872aa643818d670df041e42
-      internalID: -1831709921
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_185
-      rect:
-        serializedVersion: 2
-        x: 240
-        y: 106
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0746e8376dad41744a71fffb1bd524c7
-      internalID: 1487627699
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_186
-      rect:
-        serializedVersion: 2
-        x: 300
-        y: 106
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 43af6137f0c6b414eb5a8e3022816fb3
-      internalID: 1909771007
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_187
-      rect:
-        serializedVersion: 2
-        x: 390
-        y: 106
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ecb7fcb9f198a644cb40687878881555
-      internalID: -276119726
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_188
-      rect:
-        serializedVersion: 2
-        x: 15
+        x: 92
         y: 92
-        width: 15
-        height: 14
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4132,20 +1690,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f594eb6405d8bcc4cb1ef2355b20c871
-      internalID: -1539981462
+      spriteID: fc907c6f1c301694082eb93d5f202c3f
+      internalID: 2101791746
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pxiel Art UI borders_189
+      name: Pxiel Art UI borders_51
       rect:
         serializedVersion: 2
-        x: 105
+        x: 138
         y: 92
-        width: 15
-        height: 14
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4154,20 +1712,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cc2427853ccf77e4590f9b1217b9348e
-      internalID: 608504383
+      spriteID: bb5f35657e8cd624bb76b18fc4d8363a
+      internalID: 1889207872
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pxiel Art UI borders_190
+      name: Pxiel Art UI borders_54
       rect:
         serializedVersion: 2
-        x: 150
+        x: 276
         y: 92
-        width: 15
-        height: 14
+        width: 46
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4176,1262 +1734,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ee51b4e9df0512445b22f6804e2ebd9d
-      internalID: -145713930
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_191
-      rect:
-        serializedVersion: 2
-        x: 165
-        y: 92
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cd2753911e606774a908a589875e43a3
-      internalID: -2023380689
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_192
-      rect:
-        serializedVersion: 2
-        x: 240
-        y: 92
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 64dc2689021405c40b551cff8e574cc8
-      internalID: 733702086
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_193
-      rect:
-        serializedVersion: 2
-        x: 300
-        y: 92
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 52c9b05586c0e1e4cacdfc6b37363328
-      internalID: 1963955062
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_194
-      rect:
-        serializedVersion: 2
-        x: 390
-        y: 92
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 98ccd037f0ea0a74da539d7c73ffc198
-      internalID: -1366520924
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_195
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 78
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fbbf169a233a0b849b000ba6354391e7
-      internalID: 1408464375
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_196
-      rect:
-        serializedVersion: 2
-        x: 105
-        y: 78
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 526616085ea110d49abd6a9bb09a4ef3
-      internalID: 31013874
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_197
-      rect:
-        serializedVersion: 2
-        x: 150
-        y: 78
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 40a2b053f3e3a184d82b9ded02cf0cd4
-      internalID: -867320134
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_198
-      rect:
-        serializedVersion: 2
-        x: 165
-        y: 78
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e6654b41afb761047a7913c07793c775
-      internalID: -845475352
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_199
-      rect:
-        serializedVersion: 2
-        x: 240
-        y: 78
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 62d9ba1635ef0e84b81fed38c331a663
-      internalID: 1452000854
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_200
-      rect:
-        serializedVersion: 2
-        x: 300
-        y: 78
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 38761ade337cc274e836d3117f54289c
-      internalID: 72932597
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_201
-      rect:
-        serializedVersion: 2
-        x: 390
-        y: 78
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 075dc83a332abea4fbab845d07f06cb6
-      internalID: 707320776
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_202
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 64
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8a34264bda146a7478092319db838d9b
-      internalID: -1477276909
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_203
-      rect:
-        serializedVersion: 2
-        x: 105
-        y: 64
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f42d20177976a3e438697e0ec3ea6eb5
-      internalID: -666923161
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_204
-      rect:
-        serializedVersion: 2
-        x: 150
-        y: 64
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cc6443ca6c42be148a4b08929cad891a
-      internalID: 117274619
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_205
-      rect:
-        serializedVersion: 2
-        x: 165
-        y: 64
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 977192a93cd0f2b46a635585dcf5a14b
-      internalID: -697987547
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_206
-      rect:
-        serializedVersion: 2
-        x: 240
-        y: 64
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 13b06e18e58badb4db18ca43315e2e9e
-      internalID: -1982255839
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_207
-      rect:
-        serializedVersion: 2
-        x: 300
-        y: 64
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d1fcbf90fb7a68f4c9d72e7c5995caa6
-      internalID: 1762322815
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_208
-      rect:
-        serializedVersion: 2
-        x: 390
-        y: 64
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2ffa39e733c9df342846db450ce2dcea
-      internalID: -45274181
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_209
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 50
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cd860635796638742b849f6507342c08
-      internalID: 1608662041
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_210
-      rect:
-        serializedVersion: 2
-        x: 105
-        y: 50
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3ecbb63929741c648a588fe59b09491d
-      internalID: -2024438436
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_211
-      rect:
-        serializedVersion: 2
-        x: 150
-        y: 50
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7fc4a518192a1a743a0adee8e534949e
-      internalID: -695401117
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_212
-      rect:
-        serializedVersion: 2
-        x: 165
-        y: 50
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fc71f08ce08aea749a0e7d123ea45ec1
-      internalID: 1773290595
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_213
-      rect:
-        serializedVersion: 2
-        x: 240
-        y: 50
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 70c56a0de01ec9044974a9a4a91ebba8
-      internalID: -2059396581
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_214
-      rect:
-        serializedVersion: 2
-        x: 300
-        y: 50
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3bb7162aa5c233e408e135db53e05e8e
-      internalID: 842235872
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_215
-      rect:
-        serializedVersion: 2
-        x: 390
-        y: 50
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e94519db70dcd1d4d85db238e13b908f
-      internalID: 471941918
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_216
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 36
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d01789fbbc03f194ca20a25be4b0c1a4
-      internalID: 1382419344
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_217
-      rect:
-        serializedVersion: 2
-        x: 30
-        y: 36
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4370164b8f9c2054689d0595b49363df
-      internalID: -1985517719
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_218
-      rect:
-        serializedVersion: 2
-        x: 90
-        y: 36
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d8bfc3f40ba5248438242b027e12b176
-      internalID: -1725444503
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_219
-      rect:
-        serializedVersion: 2
-        x: 105
-        y: 36
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7db0a455315ad0040a664c6e92d8c857
-      internalID: 923504497
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_220
-      rect:
-        serializedVersion: 2
-        x: 150
-        y: 36
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b13c1f0b93ebe644283a95e8220be062
-      internalID: -1229342434
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_221
-      rect:
-        serializedVersion: 2
-        x: 165
-        y: 36
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e14f75bfd81d0bb4884b95a23e04cffe
-      internalID: -694161992
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_222
-      rect:
-        serializedVersion: 2
-        x: 180
-        y: 36
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 667234456a886d1458cf569be5f02389
-      internalID: 1229287255
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_223
-      rect:
-        serializedVersion: 2
-        x: 195
-        y: 36
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 66365a5e0c8ceda4aae8273eb834cb67
-      internalID: -616545273
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_224
-      rect:
-        serializedVersion: 2
-        x: 210
-        y: 36
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d1464de44d34f164583a2b920cfcd67d
-      internalID: 2106930972
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_225
-      rect:
-        serializedVersion: 2
-        x: 225
-        y: 36
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d332c925a3b3e794ebdc9e46cc26e050
-      internalID: -1398875031
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_226
-      rect:
-        serializedVersion: 2
-        x: 240
-        y: 36
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7096d4756fc810940b8c05b786f98512
-      internalID: -1792818995
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_227
-      rect:
-        serializedVersion: 2
-        x: 300
-        y: 36
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 076c09cfe09dcae469325c373618d65b
-      internalID: -1148948461
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_228
-      rect:
-        serializedVersion: 2
-        x: 315
-        y: 36
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 844ab2f7297b4ee4a98e77a8c4a711aa
-      internalID: 927041540
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_229
-      rect:
-        serializedVersion: 2
-        x: 330
-        y: 36
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a80406ad49aa5574a8e910d8da396545
-      internalID: 297636521
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_230
-      rect:
-        serializedVersion: 2
-        x: 345
-        y: 36
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 09ee5357aedb84c43a6b2208a5fbfb01
-      internalID: -171240121
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_231
-      rect:
-        serializedVersion: 2
-        x: 360
-        y: 36
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1125a9844dbce814fa708425fb3fbd99
-      internalID: 2094944685
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_232
-      rect:
-        serializedVersion: 2
-        x: 375
-        y: 36
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7c70333be67cd0b4fa2c4f10b59394b8
-      internalID: -2022520931
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_233
-      rect:
-        serializedVersion: 2
-        x: 390
-        y: 36
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: edf5eb0caf1a97947b344ed3ea6a9bf1
-      internalID: 23441361
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_234
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 22
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bb9d68175a385ff4b8ee793fdebc7ed1
-      internalID: -1242002648
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_235
-      rect:
-        serializedVersion: 2
-        x: 30
-        y: 22
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: be8fdf60b79b6564db824d7d8645d370
-      internalID: 1280752269
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_236
-      rect:
-        serializedVersion: 2
-        x: 45
-        y: 22
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: de08805b67dbe6e408020114310c7c6a
-      internalID: -203011644
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_237
-      rect:
-        serializedVersion: 2
-        x: 60
-        y: 22
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 36e96849226de8c4293c71cc1f4d6c96
-      internalID: -1390581338
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_238
-      rect:
-        serializedVersion: 2
-        x: 75
-        y: 22
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 601971430f859e84190cdb83908c77a7
-      internalID: 1686714690
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_239
-      rect:
-        serializedVersion: 2
-        x: 90
-        y: 22
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9cdbc12f20a36524c907a9241f06a97d
-      internalID: 1965149978
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_240
-      rect:
-        serializedVersion: 2
-        x: 105
-        y: 22
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 130e3c9ddaf4778489e0f970f2f0fc01
-      internalID: -695969849
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_241
-      rect:
-        serializedVersion: 2
-        x: 300
-        y: 22
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 28c6dea76f3744a48974b7c26114ccc4
-      internalID: -1894753662
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_242
-      rect:
-        serializedVersion: 2
-        x: 315
-        y: 22
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 76edd1e64e9cf5a459b4d0f5f4d28ea4
-      internalID: -919549375
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_243
-      rect:
-        serializedVersion: 2
-        x: 330
-        y: 22
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9eb161e35f87902498227c6a3899d632
-      internalID: 2116178326
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_244
-      rect:
-        serializedVersion: 2
-        x: 345
-        y: 22
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5cdf43f1c0b1b134bb97b4ade2280915
-      internalID: 1402147780
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_245
-      rect:
-        serializedVersion: 2
-        x: 360
-        y: 22
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 92878d6a3661aa7428b36511e5d5c64a
-      internalID: -525033838
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_246
-      rect:
-        serializedVersion: 2
-        x: 375
-        y: 22
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 47ff83d30db4c984d9e44e4735c3f736
-      internalID: -1988477130
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pxiel Art UI borders_247
-      rect:
-        serializedVersion: 2
-        x: 390
-        y: 22
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0997d594e4e718a448fef0094b31d03f
-      internalID: -1705880146
+      spriteID: 112a43f0c7f6e6b43a5fff7e28bdec36
+      internalID: -324182178
       vertices: []
       indices: 
       edges: []
@@ -5452,174 +1756,26 @@ TextureImporter:
       - key: SpriteEditor.SliceOnImport
         value: True
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":true,"gridCellCount":{"x":27.0,"y":27.0},"gridSpriteSize":{"x":15.0,"y":14.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":true,"gridCellCount":{"x":9.0,"y":9.0},"gridSpriteSize":{"x":46.0,"y":44.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Pxiel Art UI borders_0: 6514801778214281896
       Pxiel Art UI borders_1: 1918388615020650963
       Pxiel Art UI borders_10: -8535960713839142862
-      Pxiel Art UI borders_100: 710262377
-      Pxiel Art UI borders_101: 90247895
-      Pxiel Art UI borders_102: 382626805
-      Pxiel Art UI borders_103: -1018599660
-      Pxiel Art UI borders_104: -1436785325
-      Pxiel Art UI borders_105: -1540177230
-      Pxiel Art UI borders_106: 1483118513
-      Pxiel Art UI borders_107: 1654034413
-      Pxiel Art UI borders_108: -1587578996
-      Pxiel Art UI borders_109: -1164507402
       Pxiel Art UI borders_11: -3834534433095436315
-      Pxiel Art UI borders_110: -250650704
-      Pxiel Art UI borders_111: -75559126
-      Pxiel Art UI borders_112: -851415881
-      Pxiel Art UI borders_113: 1189956034
-      Pxiel Art UI borders_114: -808961664
-      Pxiel Art UI borders_115: 1418502147
-      Pxiel Art UI borders_116: 1290137946
-      Pxiel Art UI borders_117: 1766314747
-      Pxiel Art UI borders_118: -992778698
-      Pxiel Art UI borders_119: 1145133738
       Pxiel Art UI borders_12: 7855613676203939504
-      Pxiel Art UI borders_120: 1856370267
-      Pxiel Art UI borders_121: -1137788904
-      Pxiel Art UI borders_122: 1986417533
-      Pxiel Art UI borders_123: 659339509
-      Pxiel Art UI borders_124: -1919792191
-      Pxiel Art UI borders_125: 2015494305
-      Pxiel Art UI borders_126: 703799823
-      Pxiel Art UI borders_127: -539403279
-      Pxiel Art UI borders_128: 1531180847
-      Pxiel Art UI borders_129: 1165872552
       Pxiel Art UI borders_13: -4540377299369538268
-      Pxiel Art UI borders_130: -206463420
-      Pxiel Art UI borders_131: 471762103
-      Pxiel Art UI borders_132: 1250941125
-      Pxiel Art UI borders_133: 1496347989
-      Pxiel Art UI borders_134: 1893989169
-      Pxiel Art UI borders_135: -749135289
-      Pxiel Art UI borders_136: -1749467070
-      Pxiel Art UI borders_137: -1053628621
-      Pxiel Art UI borders_138: -24598504
-      Pxiel Art UI borders_139: 1798739995
       Pxiel Art UI borders_14: 6841656926578867022
-      Pxiel Art UI borders_140: 1953251362
-      Pxiel Art UI borders_141: 137232488
-      Pxiel Art UI borders_142: -1088013563
-      Pxiel Art UI borders_143: -1962429100
-      Pxiel Art UI borders_144: 1558508427
-      Pxiel Art UI borders_145: 1294539162
-      Pxiel Art UI borders_146: 925556664
-      Pxiel Art UI borders_147: -1099152999
-      Pxiel Art UI borders_148: 732619413
-      Pxiel Art UI borders_149: -1174340866
       Pxiel Art UI borders_15: -5865894879429412983
-      Pxiel Art UI borders_150: -1561444003
-      Pxiel Art UI borders_151: 149241827
-      Pxiel Art UI borders_152: 242194100
-      Pxiel Art UI borders_153: -440824996
-      Pxiel Art UI borders_154: 1218678173
-      Pxiel Art UI borders_155: -967096699
-      Pxiel Art UI borders_156: 1978594474
-      Pxiel Art UI borders_157: -643143284
-      Pxiel Art UI borders_158: 1771466608
-      Pxiel Art UI borders_159: -1692989117
       Pxiel Art UI borders_16: -1823156542341544062
-      Pxiel Art UI borders_160: -563398726
-      Pxiel Art UI borders_161: -1347682133
-      Pxiel Art UI borders_162: 862429861
-      Pxiel Art UI borders_163: 1357535057
-      Pxiel Art UI borders_164: 1969288240
-      Pxiel Art UI borders_165: -2113270342
-      Pxiel Art UI borders_166: -28036391
-      Pxiel Art UI borders_167: 636900131
-      Pxiel Art UI borders_168: 965712082
-      Pxiel Art UI borders_169: -1966031653
       Pxiel Art UI borders_17: -8308266219532336594
-      Pxiel Art UI borders_170: 1167919108
-      Pxiel Art UI borders_171: 420914211
-      Pxiel Art UI borders_172: 122045580
-      Pxiel Art UI borders_173: 970385760
-      Pxiel Art UI borders_174: 1825524327
-      Pxiel Art UI borders_175: 1504873914
-      Pxiel Art UI borders_176: -1690114399
-      Pxiel Art UI borders_177: 862138293
-      Pxiel Art UI borders_178: 1250202151
-      Pxiel Art UI borders_179: -906567008
       Pxiel Art UI borders_18: 2933655258937763352
-      Pxiel Art UI borders_180: -1507446815
-      Pxiel Art UI borders_181: -919179272
-      Pxiel Art UI borders_182: -1326796722
-      Pxiel Art UI borders_183: 1029826692
-      Pxiel Art UI borders_184: -1831709921
-      Pxiel Art UI borders_185: 1487627699
-      Pxiel Art UI borders_186: 1909771007
-      Pxiel Art UI borders_187: -276119726
-      Pxiel Art UI borders_188: -1539981462
-      Pxiel Art UI borders_189: 608504383
       Pxiel Art UI borders_19: 8433098626261281480
-      Pxiel Art UI borders_190: -145713930
-      Pxiel Art UI borders_191: -2023380689
-      Pxiel Art UI borders_192: 733702086
-      Pxiel Art UI borders_193: 1963955062
-      Pxiel Art UI borders_194: -1366520924
-      Pxiel Art UI borders_195: 1408464375
-      Pxiel Art UI borders_196: 31013874
-      Pxiel Art UI borders_197: -867320134
-      Pxiel Art UI borders_198: -845475352
-      Pxiel Art UI borders_199: 1452000854
       Pxiel Art UI borders_2: -6662550046534533565
       Pxiel Art UI borders_20: 950831257
-      Pxiel Art UI borders_200: 72932597
-      Pxiel Art UI borders_201: 707320776
-      Pxiel Art UI borders_202: -1477276909
-      Pxiel Art UI borders_203: -666923161
-      Pxiel Art UI borders_204: 117274619
-      Pxiel Art UI borders_205: -697987547
-      Pxiel Art UI borders_206: -1982255839
-      Pxiel Art UI borders_207: 1762322815
-      Pxiel Art UI borders_208: -45274181
-      Pxiel Art UI borders_209: 1608662041
       Pxiel Art UI borders_21: -401424240
-      Pxiel Art UI borders_210: -2024438436
-      Pxiel Art UI borders_211: -695401117
-      Pxiel Art UI borders_212: 1773290595
-      Pxiel Art UI borders_213: -2059396581
-      Pxiel Art UI borders_214: 842235872
-      Pxiel Art UI borders_215: 471941918
-      Pxiel Art UI borders_216: 1382419344
-      Pxiel Art UI borders_217: -1985517719
-      Pxiel Art UI borders_218: -1725444503
-      Pxiel Art UI borders_219: 923504497
       Pxiel Art UI borders_22: 1130045207
-      Pxiel Art UI borders_220: -1229342434
-      Pxiel Art UI borders_221: -694161992
-      Pxiel Art UI borders_222: 1229287255
-      Pxiel Art UI borders_223: -616545273
-      Pxiel Art UI borders_224: 2106930972
-      Pxiel Art UI borders_225: -1398875031
-      Pxiel Art UI borders_226: -1792818995
-      Pxiel Art UI borders_227: -1148948461
-      Pxiel Art UI borders_228: 927041540
-      Pxiel Art UI borders_229: 297636521
       Pxiel Art UI borders_23: -1612877015
-      Pxiel Art UI borders_230: -171240121
-      Pxiel Art UI borders_231: 2094944685
-      Pxiel Art UI borders_232: -2022520931
-      Pxiel Art UI borders_233: 23441361
-      Pxiel Art UI borders_234: -1242002648
-      Pxiel Art UI borders_235: 1280752269
-      Pxiel Art UI borders_236: -203011644
-      Pxiel Art UI borders_237: -1390581338
-      Pxiel Art UI borders_238: 1686714690
-      Pxiel Art UI borders_239: 1965149978
       Pxiel Art UI borders_24: 136899436
-      Pxiel Art UI borders_240: -695969849
-      Pxiel Art UI borders_241: -1894753662
-      Pxiel Art UI borders_242: -919549375
-      Pxiel Art UI borders_243: 2116178326
-      Pxiel Art UI borders_244: 1402147780
-      Pxiel Art UI borders_245: -525033838
-      Pxiel Art UI borders_246: -1988477130
-      Pxiel Art UI borders_247: -1705880146
       Pxiel Art UI borders_25: 1797742005
       Pxiel Art UI borders_26: -2045715071
       Pxiel Art UI borders_27: 1866460153
@@ -5672,36 +1828,8 @@ TextureImporter:
       Pxiel Art UI borders_7: -4917248735867698234
       Pxiel Art UI borders_70: -168219143
       Pxiel Art UI borders_71: -956574849
-      Pxiel Art UI borders_72: 1635895351
-      Pxiel Art UI borders_73: 462601403
-      Pxiel Art UI borders_74: 1928429412
-      Pxiel Art UI borders_75: -484249964
-      Pxiel Art UI borders_76: 492590027
-      Pxiel Art UI borders_77: -2033359683
-      Pxiel Art UI borders_78: -1415124495
-      Pxiel Art UI borders_79: -150654290
       Pxiel Art UI borders_8: 4214001541895945112
-      Pxiel Art UI borders_80: -1991515884
-      Pxiel Art UI borders_81: 181625750
-      Pxiel Art UI borders_82: 1171166617
-      Pxiel Art UI borders_83: 1173299181
-      Pxiel Art UI borders_84: -1836942021
-      Pxiel Art UI borders_85: -1530488550
-      Pxiel Art UI borders_86: 976361003
-      Pxiel Art UI borders_87: -1391917098
-      Pxiel Art UI borders_88: -735202887
-      Pxiel Art UI borders_89: -595346429
       Pxiel Art UI borders_9: 8923768499077683191
-      Pxiel Art UI borders_90: 2027490034
-      Pxiel Art UI borders_91: -1277015974
-      Pxiel Art UI borders_92: 223163293
-      Pxiel Art UI borders_93: 1392872479
-      Pxiel Art UI borders_94: -491742456
-      Pxiel Art UI borders_95: -778254561
-      Pxiel Art UI borders_96: -1069897897
-      Pxiel Art UI borders_97: 87367985
-      Pxiel Art UI borders_98: -1713409739
-      Pxiel Art UI borders_99: -2121941425
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

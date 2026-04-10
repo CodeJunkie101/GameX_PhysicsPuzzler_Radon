@@ -13,6 +13,8 @@ GameObject:
   - component: {fileID: -4789874960681210366}
   - component: {fileID: -8510494414528148644}
   - component: {fileID: -75412760241160869}
+  - component: {fileID: 8406985943767231950}
+  - component: {fileID: 8991118436947643701}
   m_Layer: 0
   m_Name: Player Real
   m_TagString: Untagged
@@ -31,7 +33,7 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0.34004, y: 0.08442, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -84,7 +86,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
+  m_Sprite: {fileID: 7482667652216324306, guid: 75073f72e58cecc46971db2213fed027, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -117,10 +119,10 @@ Rigidbody2D:
   m_ExcludeLayers:
     serializedVersion: 2
     m_Bits: 0
-  m_Interpolate: 0
+  m_Interpolate: 1
   m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
+  m_CollisionDetection: 1
+  m_Constraints: 4
 --- !u!61 &-8510494414528148644
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -180,8 +182,45 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::RealPlayerController
   moveSpeed: 8
-  runSpeed: 8
-  jumpForce: 6
+  boolFlipX: 0
+  runSpeed: 10
+  jumpForce: 10
+  move: 0
   lightball: {fileID: 8635967351761634635, guid: 7e4a93bb988643d4eb52d13e72d20337, type: 3}
   HeldMirror: {fileID: 8180165067870591130, guid: 64d5fc336f60fc4459c90820b3170e80, type: 3}
   LightBallSpeed: 10
+  line: {fileID: 350504067480656258, guid: e3a30cb93d9208d42911f660a584e2be, type: 3}
+--- !u!114 &8406985943767231950
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1988221681811070979}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9be635dcc02518499ba1c7c1bbbe64e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerAnimation
+--- !u!95 &8991118436947643701
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1988221681811070979}
+  m_Enabled: 0
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 54370b575ea9b91409ac2ce2b092eddb, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
