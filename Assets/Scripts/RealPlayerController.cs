@@ -1,16 +1,13 @@
-using System.Reflection.Emit;
-using NUnit.Framework;
 using Unity.Mathematics;
 using UnityEngine;
 using UnityEngine.Events;
 
-public class PlayerController : MonoBehaviour
+public class RealPlayerController : MonoBehaviour
 {
     public float moveSpeed = 8f;
     public float runSpeed = 8f;
     public float jumpForce = 10f;
     
-    public Animator animator;
     private Vector2 initial, final;
     public static Vector2 moveLight;
     Vector2 cursorpos;
@@ -21,18 +18,7 @@ public class PlayerController : MonoBehaviour
     bool isGrounded;
     bool canMove;
     bool isLight;
-    bool boolFlipX;
-    
     private Rigidbody2D r;
-    private SpriteRenderer sr;
-    public Sprite Jumping;
-    public UnityEvent OnLandEvent;
-
-	[System.Serializable]
-	public class BoolEvent : UnityEvent<bool> { }
-
-	public BoolEvent OnCrouchEvent;
-	private bool m_wasCrouching = false;
 
 
     void Start()
@@ -44,10 +30,9 @@ public class PlayerController : MonoBehaviour
 
     void Update()
     {
+        LeftRightMovement();
         ability();
-        movement();
         jump();
-
     }
 
     void ability()
@@ -70,15 +55,11 @@ public class PlayerController : MonoBehaviour
             Destroy(gameObject);
         }
     }
-    void movement()
+    void LeftRightMovement()
     {
         if (canMove)
         {
             float move = Input.GetAxisRaw("Horizontal");
-            if (move == 1f) boolFlipX = false;
-            if (move == -1f) boolFlipX = true;
-            gameObject.GetComponent<SpriteRenderer>().flipX = boolFlipX;
-            animator.SetFloat("Speed" , Mathf.Abs(move));
             if(Input.GetKey(KeyCode.LeftShift) && isGrounded) r.linearVelocity = new Vector2(move * runSpeed, r.linearVelocityY);
             else r.linearVelocity = new Vector2(move * moveSpeed, r.linearVelocity.y);
         }
@@ -88,16 +69,11 @@ public class PlayerController : MonoBehaviour
         if(Input.GetKey(KeyCode.Space) && isGrounded && canMove) 
         {
             r.linearVelocity = new Vector2(r.linearVelocity.x, jumpForce);
-            gameObject.GetComponent<SpriteRenderer>().sprite = Jumping;
         }
-    
     }
     void OnCollisionEnter2D(Collision2D collision)
     {
-        if(collision.gameObject.CompareTag("Ground"))
-        {
-            isGrounded = true;
-        }
+        if(collision.gameObject.CompareTag("Ground")) isGrounded = true;
         if(collision.gameObject.CompareTag("Spike"))
         {
             Debug.Log("Player hit spikes , dead");
@@ -108,14 +84,12 @@ public class PlayerController : MonoBehaviour
         if(collision.gameObject.tag == "Ground")
         {
             isGrounded = false;
-            animator.SetFloat("Jump" , 0f);
         }
     }
     void OnTriggerEnter2D(Collider2D collision)
     {
         if(collision.gameObject.CompareTag("MirrorObject"))
         {
-            
             Destroy(collision.gameObject);
             GameObject temp = Instantiate(HeldMirror, gameObject.transform.position, Quaternion.identity);
             temp.transform.parent = gameObject.transform;
