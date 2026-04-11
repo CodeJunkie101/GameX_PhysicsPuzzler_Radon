@@ -7,6 +7,7 @@ public class RealPlayerController : MonoBehaviour
     public float runSpeed = 8f;
     public float jumpForce = 10f;
     public float move;
+
     private Vector2 initial, final;
     public static Vector2 moveLight;
     public GameObject lightball;
@@ -19,6 +20,11 @@ public class RealPlayerController : MonoBehaviour
     public GameObject line;
     private GameObject arrowline;
     static Quaternion directionoflight;
+    audioManager audioManager;
+    private void Awake()
+    {
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<audioManager>();
+    }
 
 
     void Start()
@@ -83,8 +89,8 @@ if (Input.GetKey(KeyCode.Mouse0) && !isLight)
     {
         if (canMove)
         {
-             move = Input.GetAxisRaw("Horizontal");
-             if (move == 1f) boolFlipX = false;
+            move = Input.GetAxisRaw("Horizontal");
+            if (move == 1f) boolFlipX = false;
             if (move == -1f) boolFlipX = true;
             gameObject.GetComponent<SpriteRenderer>().flipX = boolFlipX;
             if(Input.GetKey(KeyCode.LeftShift) && isGrounded) r.linearVelocity = new Vector2(move * runSpeed, r.linearVelocityY);
@@ -105,6 +111,8 @@ if (Input.GetKey(KeyCode.Mouse0) && !isLight)
         if(collision.gameObject.CompareTag("Spike"))
         {
             
+            audioManager.PlaySFX(audioManager.btnprs);
+            PlayerHealth.CurrentPlayerHealth--;
             Instantiate(gameObject , LevelController.spawn , Quaternion.identity);
             Destroy(gameObject);
         }
@@ -132,4 +140,5 @@ if (Input.GetKey(KeyCode.Mouse0) && !isLight)
         {
         }
 }
+
 }

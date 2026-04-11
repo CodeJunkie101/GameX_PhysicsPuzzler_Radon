@@ -13,8 +13,6 @@ GameObject:
   - component: {fileID: -4789874960681210366}
   - component: {fileID: -8510494414528148644}
   - component: {fileID: -75412760241160869}
-  - component: {fileID: 8406985943767231950}
-  - component: {fileID: 8991118436947643701}
   m_Layer: 0
   m_Name: Player Real
   m_TagString: Untagged
@@ -112,7 +110,7 @@ Rigidbody2D:
   m_LinearDamping: 0
   m_AngularDamping: 0.05
   m_GravityScale: 2.5
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 6a4d15108db3921418b49f532624f7bb, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -190,37 +188,3 @@ MonoBehaviour:
   HeldMirror: {fileID: 8180165067870591130, guid: 64d5fc336f60fc4459c90820b3170e80, type: 3}
   LightBallSpeed: 10
   line: {fileID: 350504067480656258, guid: e3a30cb93d9208d42911f660a584e2be, type: 3}
---- !u!114 &8406985943767231950
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1988221681811070979}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d9be635dcc02518499ba1c7c1bbbe64e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::PlayerAnimation
---- !u!95 &8991118436947643701
-Animator:
-  serializedVersion: 7
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1988221681811070979}
-  m_Enabled: 0
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 54370b575ea9b91409ac2ce2b092eddb, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_AnimatePhysics: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
-  m_WriteDefaultValuesOnDisable: 0

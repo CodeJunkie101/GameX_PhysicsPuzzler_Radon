@@ -12,6 +12,8 @@ TagManager:
   - MirrorHolder
   - LightBall
   - Socket
+  - Audio
+  - FailBox
   layers:
   - Default
   - TransparentFX

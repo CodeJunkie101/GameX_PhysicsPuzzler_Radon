@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class LevelController : MonoBehaviour
 {
@@ -10,5 +11,9 @@ public Vector3 spawnPoint;
     {
         spawn = spawnPoint;
         Instantiate(Player , spawn , Quaternion.identity);
+    }
+    public void startGame()
+    {
+        SceneManager.LoadScene(1);
     }
 }

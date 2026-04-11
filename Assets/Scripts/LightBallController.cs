@@ -4,9 +4,13 @@ using UnityEngine.SceneManagement;
 public class LightBallController : MonoBehaviour
 {
     public GameObject player;
-    //public GameObject trail;
     private Rigidbody2D rb;
     public static bool exist;
+    audioManager audioManager;
+    private void Awake()
+    {
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<audioManager>();
+    }
     void Start()
     {
         exist = true;
@@ -28,6 +32,8 @@ public class LightBallController : MonoBehaviour
         {
             Instantiate(player , LevelController.spawn , Quaternion.identity);
             exist = false;
+            PlayerHealth.CurrentPlayerHealth--;
+            audioManager.PlaySFX(audioManager.hurt);
             Destroy(gameObject);
             
         }
@@ -35,6 +41,7 @@ public class LightBallController : MonoBehaviour
         else if (collision.gameObject.tag != "Mirror")
         {
             Instantiate(player, gameObject.transform.position, Quaternion.identity);
+            audioManager.PlaySFX(audioManager.btp);
             exist = false;
             Destroy(gameObject);
         }

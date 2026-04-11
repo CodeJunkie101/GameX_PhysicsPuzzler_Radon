@@ -10,7 +10,8 @@ TrueTypeFontImporter:
   includeFontData: 1
   fontNames:
   - DigitalDisco
-  fallbackFontReferences: []
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a01dade7867391e478f0f5bfcc45a8f7, type: 3}
   customCharacters: 
   fontRenderingMode: 0
   ascentCalculationMode: 1
